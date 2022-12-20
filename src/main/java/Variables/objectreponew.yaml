@@ -1,0 +1,12 @@
+Login_Page:
+          name_textBox: "//input[@id='text']"
+          password_textBox: "//input[@id='text']"
+          submit_button: ""
+
+Contacts_Page:
+             submit_button: "//div[@id='form_buttons']/input[@type='submit']"
+
+
+
+
+
